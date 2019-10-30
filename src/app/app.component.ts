@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'binding';
+  public firstName = "Arpit";
+  public message = "";
+  public email=""
+
 }
+
